@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="578" viewBox="0 0 1240 578">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_295704" data-name="Rectángulo 295704" width="1240" height="578" rx="10" transform="translate(180 689)" fill="#1565c0"/>
+    </clipPath>
+    <filter id="Elipse_7966" x="-352.908" y="-154.438" width="907.51" height="864.877" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.282"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_7964" x="851.694" y="326.021" width="548.306" height="524.834" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.545"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_889845" data-name="Grupo 889845" transform="translate(-180 -5296)">
+    <rect id="Rectángulo_295548" data-name="Rectángulo 295548" width="1240" height="577" rx="17" transform="translate(180 5296)" fill="#d4e7e9"/>
+    <g id="Enmascarar_grupo_161026" data-name="Enmascarar grupo 161026" transform="translate(0 4607)" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, 180, 689)" filter="url(#Elipse_7966)">
+        <ellipse id="Elipse_7966-2" data-name="Elipse 7966" cx="408.755" cy="387.438" rx="408.755" ry="387.438" transform="translate(-307.91 -109.44)" fill="#fff" opacity="0.16"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 180, 689)" filter="url(#Elipse_7964)">
+        <ellipse id="Elipse_7964-2" data-name="Elipse 7964" cx="229.153" cy="217.417" rx="229.153" ry="217.417" transform="translate(896.69 371.02)" fill="#fff" opacity="0.14"/>
+      </g>
+      <g id="Grupo_889270" data-name="Grupo 889270" transform="translate(1253.633 641)">
+        <path id="Trazado_600885" data-name="Trazado 600885" d="M9.685-96.713c52.095,0,94.325,40,94.325,89.348S61.78,81.982,9.685,81.982-84.64,41.98-84.64-7.365-42.41-96.713,9.685-96.713Zm0,129.466c23.391,0,42.353-17.961,42.353-40.118S33.076-47.483,9.685-47.483-32.668-29.522-32.668-7.365-13.705,32.753,9.685,32.753Z" transform="translate(84.64 96.713)" fill="#15808b"/>
+      </g>
+    </g>
+  </g>
+</svg>
