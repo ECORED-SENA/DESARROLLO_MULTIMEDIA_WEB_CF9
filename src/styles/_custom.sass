@@ -105,7 +105,11 @@
     height: 115%
     background-image: url("../assets/curso/tema1/img27.svg")
     background-repeat: no-repeat
-    background-size: 100% auto  
+    background-size: 100% auto
+    @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+      background-size: cover  
+      height: 100%
+      border-radius: 17px
 
 .bg_3 
   background-color: #FFFFFF
@@ -180,6 +184,8 @@
 
 .h_1
   height: 470px
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    height: 500px
 
 .bg_fondo2-t2
   position: relative
@@ -200,7 +206,9 @@
 .bg_fondoslyder-t2
   background-image: url("../assets/curso/tema2/imgfondo-slyder.svg")
   background-repeat: no-repeat
-  background-size: cover
+  background-size: 100% 100%
+  border-radius: 19px!important
+
   
 .t1_text
   font-size: 14px
@@ -263,8 +271,10 @@
 .bg_slyder-t3
   background-image: url("../assets/curso/tema3/img03.svg")
   background-repeat: no-repeat
-  background-size: cover 
+  background-size: 100% 100% 
   border-radius: 17px
+  @media (max-width: $bp-max-md)
+    background-size: cover
 
 .cajon-b.color-secundario:before 
     background-color: #E2F8FA

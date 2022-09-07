@@ -35,7 +35,7 @@
         .row.justify-content-center.mt-4   
           .col-auto.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
-          .col-lg-10
+          .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Es preciso que los enlaces o hipervínculos internos y externos se ejecuten de manera correcta, así como facilitar que el usuario pueda ponerse en contacto con las áreas de soporte en caso de ser necesario. 
         p.m-0 La sencillez y limpieza en el diseño facilitan la navegabilidad de los sitios para que los usuarios siempre busquen lo que encuentran. Cuanto más sencillo sea recorrer e interactuar en la página, más efectiva resultará la localización de la información, lo que deriva en una mejor experiencia para el usuario y posiblemente ayudará a convertir el usuario en un cliente, que es uno de los objetivos al construir un sitio web. Las interfaces deben estar pensadas desde la intuición del usuario sin necesitar largos procesos de aprendizaje de manejo y ser afable.
       .col-lg-5.mb-4
@@ -46,11 +46,11 @@
         figure
           img.img-t(data-aos="fade-right")(src='@/assets/curso/tema1/img05.png', alt='')
       .col-lg-9(data-aos="fade-left")
-        span.color-text1.text-bold La tipografía y el lenguaje escrito son un gran apoyo para reducir el tiempo de búsqueda
+        span.color-text1.text-bold La tipografía y el lenguaje escrito son un gran apoyo para reducir el tiempo de búsqueda 
         | y es importante resumir los contenidos para que leerlos sea una experiencia agradable y precisa y el usuario no se sobrecargue de información. También es importante tener en cuenta las decisiones de color para que estas generen legibilidad y contraste, permitiendo que la lectura sea cómoda para el usuario.
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-xl-10.col-xxl-8
         p En la siguiente figura se visualiza el proceso de análisis para estudiar la usabilidad en el desarrollo de una pieza.
 
     .row.justify-content-center.mb-5
@@ -67,7 +67,7 @@
         p(data-aos="fade-down") Ahora, se debe revisar con atención el flujograma del proceso e identificar los puntos más críticos y cada uno de los pasos que se deben realizar para garantizar la aplicación de usabilidad en el diseño de páginas web. 
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-xl-9.col-xxl-8
         h5 Las características principales de la usabilidad se pueden resumir en el siguiente recurso de aprendizaje: 
     
     .row.justify-content-center.mb-5
@@ -102,7 +102,7 @@
           p.text-center El resultado final para el usuario que navega con comodidad y acepta los componentes.
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-xl-10.col-xxl-8
         p La siguiente figura ilustra los elementos de a tener presente en cada una de las características de la usabilidad. 
 
     .row.justify-content-center.mb-5
@@ -238,7 +238,7 @@
           .row.justify-content-center  
             .col-auto.d-none.d-lg-block
               img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
-            .col-lg-10
+            .col-lg-10.col-xl-9.col-xxl-10
               span.color-text1.text-bold Una página es accesible si lo es para cualquier persona, sin importar las circunstancias que puedan dificultar el acceso a la información o si cuenta con alguna discapacidad.  
           p.mt-4 Por consiguiente, la accesibilidad es un elemento esencial que, además, resulta siendo un ejercicio de solidaridad con diversos perfiles de usuario para generar inclusión y no dejar a nadie al margen, un ejemplo muy ilustrativo de esto son las páginas gubernamentales que entregan información y dan soporte a todos los ciudadanos en general. 
         .col-lg-5.mb-4
@@ -246,7 +246,7 @@
       
       .bg_2.p-4.py-3.mb-4
         .row.justify-content-center.mb-3
-          .col-lg-8
+          .col-lg-8.col-xl-10.col-xxl-8
             p Las características principales de la accesibilidad se pueden resumir en el siguiente recurso de aprendizaje:
           
         .row.justify-content-center
@@ -381,13 +381,13 @@
         .row.justify-content-center.mt-4   
           .col-auto.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema1/img33.svg', alt='')       
-          .col-lg-10
+          .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Herramientas como accesos directos desde el teclado permiten recorrer y navegar con mayor agilidad los contenidos y para estos se deben proponer textos legibles y comprensibles que propendan por la claridad en los contenidos; además, los botones, enlaces y menús facilitan el acceso a la información haciendo la página más funcional y versátil.
       .col-lg-5.mb-4
         img.img-t(src='@/assets/curso/tema1/img33.png', alt='') 
 
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10.col-xl-11.col-xxl-10
         p También es importante conocer los principios para la accesibilidad del usuario. A continuación, se presentan cada uno de ellos.
 
     .row.justify-content-center

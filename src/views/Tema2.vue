@@ -13,7 +13,7 @@
         .row.justify-content-center.mt-4   
           .col-auto.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema2/img02.svg', alt='')       
-          .col-lg-10
+          .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Para verificar la optimización de los sitios web, se debe incrementar la relación con los usuarios aumentando la cantidad de visitas lo que permitirá medir el uso y la interacción de los usuarios con las herramientas y elementos que se disponen en los contenidos web.
         p.m-0 Es importante recordar que los criterios a tener presente para la medición de la accesibilidad y la usabilidad tienen como base la experiencia óptima del usuario, y que se debe propender por un diseño acorde y con una estética conceptual. 
       .col-lg-5.mb-4
@@ -54,7 +54,7 @@
       p.mb-5 La usabilidad no solo se pone a prueba, generalmente se mide por indicadores que son tanto cuantificables como observables y de estos se pueden obtener resultados más visibles y concretos que permitirán tomar las medidas requeridas. A continuación, se mencionan los más relevantes.
 
       .row.justify-content-center 
-        .col-lg-10
+        .col-lg-10.col-xl-12.col-xxl-10
           SlyderF.mb-4(columnas="col-lg-6 col-xl-4")
             .tarjeta.color-secundario.p-4.h_1
               .row.justify-content-center.mb-3
@@ -151,9 +151,9 @@
     
     p Es importante explorar las herramientas que ayudan a mejorar la experiencia del usuario, en pro de una mejor usabilidad: 
 
-    .bg_fondo2-t2.mb-5
+    .bg_fondo2-t2.mb-5.p-4
       .row.justify-content-center 
-        .col-lg-10
+        .col-lg-11
           .bg_fondoslyder-t2.p-5.mb-5
             SlyderF.mb-4(columnas="col-lg-6 col-xl-6")
               .tarjeta.bg_5.p-4.h_1
