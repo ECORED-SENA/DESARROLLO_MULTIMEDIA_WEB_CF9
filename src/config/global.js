@@ -267,25 +267,25 @@ export default {
       },
       {
         nombre: 'Eduardo José Velasco Acevedo',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Juan Manuel Reyes Ramírez',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Carlos Andrés Suescun Lesmes',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Olga Lucía Mogollón Carvajal',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
@@ -315,18 +315,18 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
         nombre: 'Marcia Elizabeth Solano Alvarez',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Maria Camila Ovalle',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
