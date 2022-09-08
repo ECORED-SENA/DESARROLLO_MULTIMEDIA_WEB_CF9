@@ -84,18 +84,6 @@ export default {
     ],
     subMenu: [
       {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -175,7 +163,7 @@ export default {
     {
       termino: 'Prototipo',
       significado:
-        'paso siguiente al wireframe, donde se plantea un boceto visual con referencias visuales y estructura, detallando más el contenido y la organización (Top Position, s.f.).',
+        'paso siguiente al <em>wireframe</em>, donde se plantea un boceto visual con referencias visuales y estructura, detallando más el contenido y la organización (Top Position, s.f.).',
     },
     {
       termino: 'Test A/B',
@@ -296,6 +284,11 @@ export default {
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
@@ -326,7 +319,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Maria Camila Ovalle',
+        nombre: 'Maria Camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

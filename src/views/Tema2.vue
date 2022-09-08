@@ -37,11 +37,11 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Pasillo de pruebas") Permiten analizar características generales para todos los perfiles con el fin de identificar características de complicidad y usabilidad. <br><br>Es una opción rápida y económica  en la que se seleccionan los participantes al azar, esto ayuda a que la muestra contemple variabilidad de los individuos ya que sus perfiles, cualidades, percepciones y habilidades son diferentes. 
           
-          p(numero="2" titulo="Prueba de usabilidad remota") EEn escenarios de usabilidad es habitual que los usuarios pertenezcan a diferentes regiones y zonas horarias, convirtiendo este aspecto en un reto. <br><br>Este tipo de pruebas permiten que usuarios en diferentes regiones aporten datos e información valiosas, pero se pueden presentar inconvenientes al momento de comunicarlas en un horario no hábil, o que no se cuente con el registro exacto de cuál fue el usuario que realiza la prueba.
+          p(numero="2" titulo="Prueba de usabilidad remota") En escenarios de usabilidad es habitual que los usuarios pertenezcan a diferentes regiones y zonas horarias, convirtiendo este aspecto en un reto. <br><br>Este tipo de pruebas permiten que usuarios en diferentes regiones aporten datos e información valiosas, pero se pueden presentar inconvenientes al momento de comunicarlas en un horario no hábil, o que no se cuente con el registro exacto de cuál fue el usuario que realiza la prueba.
           
           p(numero="3" titulo="Metodologías asíncronas") Es un registro automático que se obtiene cuando un usuario navega en un sitio, permitiendo saber cómo fue su recorrido, los clics realizados, tiempos y comportamiento dejando una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. <br><br>Esta información es relevante para las empresas, con el fin de comprender sus usuarios, lo que ellos que hacen y cómo se desenvuelven al momento de navegar por un sitio web. 
           
-          p(numero="4" titulo="Heurística de Nielsen ") Presenta los elementos que se deben considerar al momento de evaluar el diseño de las interfaces de usuario:<br><br> Visibilidad del estado del sistema. <br>Utilizar el lenguaje de los usuarios. <br>	Control y libertad para el usuario. <br> Consistencia y estándares. <br>Prevención de errores. <br> Minimizar la carga de la memoria del usuario. <br>Flexibilidad y eficiencia de uso. <br> Diagnósticos estéticos y diseño minimalista. <br>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores. <br>Ayuda y documentación. 
+          p(numero="4" titulo="Heurística de Nielsen ") Presenta los elementos que se deben considerar al momento de evaluar el diseño de las interfaces de usuario:<br><br> - Visibilidad del estado del sistema. <br> - Utilizar el lenguaje de los usuarios. <br>	- Control y libertad para el usuario. <br> - Consistencia y estándares. <br> - Prevención de errores. <br> - Minimizar la carga de la memoria del usuario. <br> - Flexibilidad y eficiencia de uso. <br> - Diagnósticos estéticos y diseño minimalista. <br> - Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores. <br> - Ayuda y documentación. 
 
           p(numero="5" titulo="Test A/B") Prueba aleatoria con 2 variantes (A y B) siendo una la variante y la otra la que controla. Consiste en comparar dos opciones con leves cambios que afectan directamente los comportamientos de los usuarios. <br><br>Se utilizan dos opciones exactas con  contenido diferente y al priorizar alguno se obtendrán resultados. <br><br>Se pueden encontrar variantes donde la intención de la prueba es comparar y se mantiene una sola variante que controla, así se obtienen más datos sobre las mismas pruebas siendo más económico, pero sus resultados pueden ser sesgados. 
         
@@ -49,7 +49,7 @@
 
     .bg_fondo1-t2
       #t_2_2.titulo-segundo.color-acento-botones(data-aos="zoom-out-right")
-          h2 2.2 Elementos interactivos de la interfaz de usuario
+          h2 2.2 Los indicadores de usabilidad
 
       p.mb-5 La usabilidad no solo se pone a prueba, generalmente se mide por indicadores que son tanto cuantificables como observables y de estos se pueden obtener resultados más visibles y concretos que permitirán tomar las medidas requeridas. A continuación, se mencionan los más relevantes.
 
@@ -124,14 +124,14 @@
                 .col-8
                   img.img-t.mx-auto.mt-4.mb-4(src='@/assets/curso/tema2/img14.svg' alt='AvatarTop')
               h5.text-white.text-center SUM
-              p.text-center (Single Usability Metric): describe la usabilidad mediante los indicadores de tasa de tareas completadas, tiempo de completado de una tarea y el nivel de satisfacción.
+              p.text-center <em>(Single Usability Metric)</em>: describe la usabilidad mediante los indicadores de tasa de tareas completadas, tiempo de completado de una tarea y el nivel de satisfacción.
 
             .tarjeta.color-secundario.p-4.h_1
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-t.mx-auto.mt-4.mb-4(src='@/assets/curso/tema2/img15.svg' alt='AvatarTop')
               h5.text-white.text-center SUS
-              p.text-center (System Usability Scale): mide la usabilidad en un cuestionario de 10 preguntas con una escala de puntuación Likert.   
+              p.text-center <em>(System Usability Scale)</em>: mide la usabilidad en un cuestionario de 10 preguntas con una escala de puntuación Likert.   
 
       Separador.
 
@@ -160,7 +160,7 @@
                 .row.justify-content-center.mb-3
                   .col-8
                     img.img-t.mx-auto.mt-4.mb-3(src='@/assets/curso/tema2/img16.svg' alt='AvatarTop')
-                p.text-center Es una herramienta gratuita de Microsoft, que permite visualizar experiencias de usuario, aporta estadísticas y mapas de calor, se ancla con aplicaciones como Google Analytics, lo que ayuda que los datos sean más detallados.
+                p.text-center <b>Clarity:</b> es una herramienta gratuita de Microsoft, que permite visualizar experiencias de usuario, aporta estadísticas y mapas de calor, se ancla con aplicaciones como Google Analytics, lo que ayuda que los datos sean más detallados.
                 p.text-center ¿Cómo funciona Clarity? Se puede ver en el siguiente enlace: 
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=smPeZg5Ts6c" target="_blank")
                   .anexo__icono
@@ -172,7 +172,7 @@
                 .row.justify-content-center.mb-3
                   .col-8
                     img.img-t.mx-auto.mt-1(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
-                p.text-center Es una herramienta top de consulta de datos, presenta mapas de calor y grabaciones en tiempo real de comportamientos de usuario, esta aplicación se adapta a las necesidades de los usuarios y cuenta con una versión paga. 
+                p.text-center <b>Hotjar:</b> es una herramienta top de consulta de datos, presenta mapas de calor y grabaciones en tiempo real de comportamientos de usuario, esta aplicación se adapta a las necesidades de los usuarios y cuenta con una versión paga. 
                 p.text-center ¿Cómo funciona HotJar? Se puede ver en el siguiente enlace:  
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=2DPIqN_L9DE&t=8s" target="_blank")
                   .anexo__icono
@@ -184,7 +184,7 @@
                 .row.justify-content-center
                   .col-8.mb-2
                     img.img-t.mx-auto.mt_1(src='@/assets/curso/tema2/img18.svg' alt='AvatarTop')
-                p.text-center  Permite insertar líneas de código en JavaScript, donde se analizará todo lo que un usuario hace en una navegación, mapas de calor y seguimiento de clics. Se puede conseguir una prueba por 30 días, es una versión paga con tarifas mensuales o anuales.
+                p.text-center  <b>Crazyegg:</b> permite insertar líneas de código en JavaScript, donde se analizará todo lo que un usuario hace en una navegación, mapas de calor y seguimiento de clics. Se puede conseguir una prueba por 30 días, es una versión paga con tarifas mensuales o anuales.
                 p.text-center Mapas de calor con CrazyEgg: (recurso en inglés, con subtítulos en español) Se puede ver en el siguiente enlace: 
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=mFuPz6oOD48&pp=ugMICgJlcxABGAE%3D" target="_blank")
                   .anexo__icono
@@ -196,7 +196,7 @@
                 .row.justify-content-center.mb-3
                   .col-8
                     img.img-t.mx-auto.mt-4.mb-4(src='@/assets/curso/tema2/img19.svg' alt='AvatarTop')
-                p.text-center Desglosa parte por parte las experiencias de los usuarios, utilizando plantillas personalizables, creando mapas, proyectos y necesidades específicas.
+                p.text-center <b>Uxpressia:</b> desglosa parte por parte las experiencias de los usuarios, utilizando plantillas personalizables, creando mapas, proyectos y necesidades específicas.
                 p.text-center.mb-4 Mapas de navegación con UXPressia. Se puede ver en el siguiente enlace:  
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=iTgMSSB9rEU" target="_blank")
                   .anexo__icono
@@ -224,7 +224,7 @@
                     img.img-t.mx-auto.mt-5(src='@/assets/curso/tema2/img21.svg', alt='AvatarTop')
                 .row.mb-4
                   .col-lg-12              
-                    p.text-center.m-0 Con solo copiar y pegar la URL, esta herramienta accede y evalúa todos los problemas de accesibilidad y aporta útiles consejos para mejorar el acceso de la información, especialmente a los usuarios que tienen discapacidades. 
+                    p.text-center.m-0 <b>Wave:</b> con solo copiar y pegar la URL, esta herramienta accede y evalúa todos los problemas de accesibilidad y aporta útiles consejos para mejorar el acceso de la información, especialmente a los usuarios que tienen discapacidades. 
                     p.text-center Es gratuita y fácil de usar.
                     p.text-center Wave para principiantes:
                 .row.justify-content-center.mb-4
@@ -241,7 +241,7 @@
                     img.img-t.mx-auto.mt-5(src='@/assets/curso/tema2/img22.svg', alt='AvatarTop')
                 .row.mb-4
                   .col-lg-12              
-                    p.text-center Es útil para comprobar cómo se visualizan las páginas en los diferentes buscadores, simulando opciones de carga lenta y con errores, prueba la accesibilidad desde diferentes elementos como computadores o móviles; se puede encontrar una versión gratuita o una de pago mensual.
+                    p.text-center <b>Blisk:</b> es útil para comprobar cómo se visualizan las páginas en los diferentes buscadores, simulando opciones de carga lenta y con errores, prueba la accesibilidad desde diferentes elementos como computadores o móviles; se puede encontrar una versión gratuita o una de pago mensual.
                     p.text-center Navegadores para desarrolladores:                    
                 .row.justify-content-center.mb-4
                   .col-lg-8
@@ -257,7 +257,7 @@
                     img.img-t.mx-auto.mt-5(src='@/assets/curso/tema2/img23.svg', alt='AvatarTop')
                 .row.mb-4
                   .col-lg-12              
-                    p.text-center Esta herramienta examina y detecta errores de código HTML, XHTML y XMIL, es de uso gratuito y combinada con otras herramientas como Wave suplen otras herramientas de pago con bastantes funciones.
+                    p.text-center <b>W3C:</b> esta herramienta examina y detecta errores de código HTML, XHTML y XMIL, es de uso gratuito y combinada con otras herramientas como Wave suplen otras herramientas de pago con bastantes funciones.
                     p.text-center Validación con W3C:                    
                 .row.justify-content-center.mb-4
                   .col-lg-8
@@ -273,7 +273,7 @@
                     img.img-t.mx-auto.mt-5(src='@/assets/curso/tema2/img24.svg', alt='AvatarTop')
                 .row.mb-4
                   .col-lg-12              
-                    p.text-center Herramienta que ayuda a medir el nivel de lectura a través del contraste de colores entre los textos y los fondos de las diferentes páginas. Es gratuita. 
+                    p.text-center <b>Checkmycolours:</b> herramienta que ayuda a medir el nivel de lectura a través del contraste de colores entre los textos y los fondos de las diferentes páginas. Es gratuita. 
                     p.text-center Como chequear los colores:
                 .row.justify-content-center.mb-4
                   .col-lg-8
@@ -289,11 +289,11 @@
                     img.img-t.mx-auto.mt-5(src='@/assets/curso/tema2/img25.svg', alt='AvatarTop')
                 .row.mb-4
                   .col-lg-12              
-                    p.text-center Es una herramienta propia para el lenguaje español, ayuda a calcular el índice de legibilidad de acuerdo con parámetros como: tiempo estimado de lectura y el grado de formación necesaria para la comprensión de un texto o documento, utilizando fórmulas que priorizan la lengua española. 
+                    p.text-center <b>Legible:</b> es una herramienta propia para el lenguaje español, ayuda a calcular el índice de legibilidad de acuerdo con parámetros como: tiempo estimado de lectura y el grado de formación necesaria para la comprensión de un texto o documento, utilizando fórmulas que priorizan la lengua española. 
                     p.text-center Análisis de textos:
                 .row.justify-content-center.mb-4
                   .col-lg-8
-                    a.anexo.mb-4.mb-lg-0(href="hhttps://www.youtube.com/watch?v=RotVbqMGXLo" target="_blank")
+                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=RotVbqMGXLo" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto

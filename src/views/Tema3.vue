@@ -47,6 +47,7 @@
                           p Se deben entregar los resultados reales, y por más cortos que sean estos es importante ser concreto al expresar las conclusiones; al igual es una muestra clara y representativa de los usuarios, conociendo si los resultados fueron los esperados.                        
                           figure
                             img.img-t(src='@/assets/curso/tema3/img05.png', alt='AvatarTop')
+
                       
                       
 </template>

@@ -60,6 +60,8 @@
           span.text-small.color_text <em>Proceso de usabilidad</em>
         img.img-t(data-aos="fade-right")(src='@/assets/curso/tema1/img06.svg', alt='')
 
+        p Nota. Tomada de Beltré (2008).         
+
     .row.justify-content-center.mt-4.mb-4   
       .col-auto.d-none.d-lg-block
         img.img-t(src='@/assets/curso/tema1/img07.svg', alt='')       
@@ -111,6 +113,8 @@
           h5 Figura 2
           span.text-small.color_text <em>Características de la usabilidad</em>
         img.img-t(data-aos="fade-up")(src='@/assets/curso/tema1/img11.svg', alt='')
+
+        p Nota. Tomada de Beltré (2008). 
 
     .bg_fondo1.mb-5
       p.text-center.mb-4 También es importante conocer los principios que Jakob Nielsen adaptó para la usabilidad del usuario. A continuación, se presentan cada uno de ellos.
@@ -234,7 +238,7 @@
     .bg_fondo3
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7
-          p.mb-4 La accesibilidad hace referencia al nivel de acceso universal que puede tener una pieza o un sitio dejando de lado el tipo de software, hardware, infraestructura, idioma cultura o localización geográfica e incluso capacidades de los usuarios. Un ejemplo claro de esto es la reducción de la accesibilidad a una página cuando esta necesita de un tipo de navegador o componente especial.          
+          p.mb-4 La accesibilidad hace referencia al nivel de acceso universal que puede tener una pieza o un sitio dejando de lado el tipo de <em>software</em>, <em>hardware</em>, infraestructura, idioma cultura o localización geográfica e incluso capacidades de los usuarios. Un ejemplo claro de esto es la reducción de la accesibilidad a una página cuando esta necesita de un tipo de navegador o componente especial.          
           .row.justify-content-center  
             .col-auto.d-none.d-lg-block
               img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
@@ -412,7 +416,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
               p.color-text1 <b>Utilizar las herramientas con funcionalidad enfocada en accesibilidad</b> 
-              p Es importante emplear software que permita corrección y revisión de errores en los contenidos y en el acceso a la información documentada, y que brinde un diagnóstico automático que se realiza con instrucciones detalladas para el usuario.       
+              p Es importante emplear <em>software</em> que permita corrección y revisión de errores en los contenidos y en el acceso a la información documentada, y que brinde un diagnóstico automático que se realiza con instrucciones detalladas para el usuario.       
             .col-lg-4(data-aos="fade-left")
               figure
                 img.img-t(src='@/assets/curso/tema1/img36.png', alt='Texto que describa la imagen')
