@@ -25,7 +25,7 @@
     .row.justify-content-center.mb-4
       .col-lg-5.mb-4
         img.img-t(src='@/assets/curso/tema2/img03.png', alt='') 
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-left")
         p.mb-5 Son técnicas creadas para evaluar las opciones de accesibilidad, usabilidad y demás que entregan información pertinente para el análisis de los usuarios en tiempo real; teniendo la posibilidad de realizar las siguientes preguntas: ¿cómo resolverlo? o ¿cómo hacerlo? y que sea el mismo usuario de manera autónoma quien las resuelva, en contraste con otras metodologías donde expertos son los encargados de evaluar las interfaces.
         p.m-0 Es importante conocer los tipos de pruebas, por eso en el siguiente recurso de aprendizaje se abordarán las más reconocidas:
 
@@ -33,7 +33,7 @@
       .col-md-4.mb-4.mb-lg-0
         figure(data-aos="fade-right")
           img.img-t(src='@/assets/curso/tema2/img04.svg')
-      .col-md-8.mb-5.mb-md-0(data-aos="fade-left")
+      .col-md-8.mb-5.mb-md-0
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Pasillo de pruebas") Permiten analizar características generales para todos los perfiles con el fin de identificar características de complicidad y usabilidad. <br><br>Es una opción rápida y económica  en la que se seleccionan los participantes al azar, esto ayuda a que la muestra contemple variabilidad de los individuos ya que sus perfiles, cualidades, percepciones y habilidades son diferentes. 
           
