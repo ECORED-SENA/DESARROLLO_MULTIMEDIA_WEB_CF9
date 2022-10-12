@@ -125,11 +125,11 @@
         .col-lg-12
           .bg_fondo2
             .row.justify-content-center.align-items-center
-              .col-lg-4.mb-5.mb-lg-0
+              .col-lg-4.mb-4.mb-lg-0
                 figure
                   img.img-t.mx-auto(src='@/assets/curso/tema1/img12.png', alt='')
               .col-lg-7.mt-4
-                .bg_slyder1.mb-4
+                .bg_slyder.mb-4
                   .p-4
                     SlyderA(tipo="b").color_slyder-a_botones
                       .row
@@ -139,7 +139,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-10
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img15.svg', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img15.svg', alt='AvatarTop')
                           p.m-0 Ejemplo: al subir un archivo a Google Drive, el sistema indica que se está cargando y el tiempo restante.
 
                       .row
@@ -149,7 +149,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-10
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img16.svg', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img16.svg', alt='AvatarTop')
                           p.m-0 Ejemplo: en la página 404 de Lego, el mensaje es “página no encontrada”. El usuario no tiene por qué saber qué significa el error 404.
 
                       .row
@@ -159,7 +159,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-12
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img17.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img17.png', alt='AvatarTop')
                           p.m-0 Ejemplo: En Gmail al enviar un correo a la papelera da la opción de deshacer la acción.
                       
                       .row
@@ -169,7 +169,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-12
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img18.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img18.png', alt='AvatarTop')
                           p.m-0 Ejemplo: un estándar de un sitio web es la situación del logo en la cabecera, en la parte superior izquierda de la página. El icono de menú en móvil (llamado menú hamburguesa) también se ha convertido en un estándar y el usuario lo identifica fácilmente.
 
                       .row
@@ -179,7 +179,7 @@
                         .row.justify-content-center.mb-4
                           .col-lg-9
                             figure
-                              img.img-t(src='@/assets/curso/tema1/img19.png', alt='AvatarTop')
+                              img.img-t.mx-auto(src='@/assets/curso/tema1/img19.png', alt='AvatarTop')
                         p.m-0 Ejemplo: los buscadores proporcionan asistencia a los usuarios para que encuentren lo que están buscando, con la función autocompletar o con la alternativa de resultados.
 
                       .row
@@ -189,7 +189,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-12
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img20.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img20.png', alt='AvatarTop')
                           p.m-0 Ejemplo: los enlaces auxiliares de un home, que incluyen texto más icono para reforzar el mensaje.
                       
                       .row
@@ -199,7 +199,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-5
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img21.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img21.png', alt='AvatarTop')
                           p.m-0 Ejemplo: MS Exchange ofrece al usuario una configuración avanzada.
 
                       .row
@@ -209,7 +209,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-10
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img22.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img22.png', alt='AvatarTop')
                           p.m-0 Ejemplo: la tendencia del diseño actual en la web. Apple, el líder del minimalismo.
 
                       .row
@@ -219,7 +219,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-12
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img23.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img23.png', alt='AvatarTop')
                           p.m-0 Ejemplo: este formulario avisa en tiempo real de los errores que cometes al llenarlo.
 
                       .row
@@ -229,7 +229,7 @@
                           .row.justify-content-center.mb-4
                             .col-lg-7
                               figure
-                                img.img-t(src='@/assets/curso/tema1/img24.png', alt='AvatarTop')
+                                img.img-t.mx-auto(src='@/assets/curso/tema1/img24.png', alt='AvatarTop')
                           p.m-0 Ejemplo: la web de Iberia reserva un espacio importante y fácilmente localizable para la opción de ayuda.
 
     Separador        

@@ -64,8 +64,14 @@
 
 .bg_fondo2
   background-image: url("../assets/curso/tema1/img13.svg")
-  background-repeat: no-repeat
   border-radius: 10px
+  background-repeat: no-repeat;
+  height: 100%
+  width: 100%
+  @media (max-width: $bp-max-md)
+    height: 48%
+  @media (max-width: $bp-max-xs)
+    height: 44%
 
 .color_slyder-a_botones
   .slyder-a__btn--sigt, .slyder-a__btn--atrs 
@@ -77,6 +83,23 @@
 
 .slyder-a__tipo-b .slyder-a__btn--atrs 
     transform: rotate(180deg)
+
+.slyder-a__tipo-b 
+    justify-content: space-between
+    align-items: center
+    @media (max-width: $bp-max-md)
+      justify-content: center
+.slyder-a__bullets__item
+    margin: 0 10px
+    @media (max-width: $bp-max-xs)
+      margin: 0 4px
+
+.bg_slyder
+  background-color: #FFFFFF
+  border-radius: 17px
+  @media (max-width: $bp-max-md)
+    width: 100%
+    margin-left: -1%
 
 .bg_slyder1
   background-color: #FFFFFF
