@@ -52,12 +52,13 @@
     background-image: url("../assets/curso/tema1/imgfondo1.svg")
     background-repeat: no-repeat
     background-size: cover  
+    @media (max-width: $bp-max-md)
+      height: 105%
 
 .bg_fondo2
   background-image: url("../assets/curso/tema1/img13.svg")
   background-repeat: no-repeat
   border-radius: 10px
-  
 
 .color_slyder-a_botones
   .slyder-a__btn--sigt, .slyder-a__btn--atrs 
@@ -72,9 +73,18 @@
 
 .bg_slyder1
   background-color: #FFFFFF
-  background-repeat: no-repeat
   border-radius: 17px
+  @media (max-width: $bp-max-md)
+    width: calc( 100% + 5rem)
+    margin-left: -8%
   
+.bg_slyder1-2
+  background-color: #FFFFFF
+  border-radius: 17px
+  @media (max-width: $bp-max-md)
+    width: 92%
+    margin-left: 4%
+
 .bg_fondo3
   position: relative
   .row, .bg_2, p, .row
@@ -91,29 +101,37 @@
     background-repeat: no-repeat
     background-size: 100% auto  
 
-.bg_2
+.bg_2 
+  background-color: #B2EBF2
+  border-radius: 17px
+
+.bg_3
   position: relative
-  .row, .bg_fondo2
+  .row
     position: relative
   &::before
     content: ''
     position: absolute
     margin: 0 0rem
-    top: -2rem
-    left: -48px
-    width: calc( 100% + 6rem)
-    height: 115%
-    background-image: url("../assets/curso/tema1/img27.svg")
-    background-repeat: no-repeat
-    background-size: 100% auto
+    top: 26%
+    left: 36%
+    width: 64%
+    height: 68%
+    background-color: #FFFFFF
+    border-radius: 17px
     @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
       background-size: cover  
-      height: 100%
-      border-radius: 17px
+      height: 70%
+    @media (max-width: $bp-max-md)
+      left: 0%
+      width: 100%
+      height: 86%
+      top: 12%
 
-.bg_3 
-  background-color: #FFFFFF
-  border-radius: 17px
+.slyder__action
+  margin-inline: 5%
+  @media (max-width: $bp-max-md)
+    margin-inline: 12%
 
 .slyder__btn 
   background-color: #FB8C00
@@ -166,6 +184,11 @@
     background-color: #B2EBF2
     color: #12263F
 
+.linea-tiempo-d__item__content__slot 
+    background-color: #E2F8FA
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
+    background-color: #E2F8FA
+
 .bg_fondo1-t2
   position: relative
   .titulo, p, .row, separador, .titulo
@@ -186,6 +209,15 @@
   height: 470px
   @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
     height: 500px
+  @media (max-width: $bp-max-md)
+    height: 440px
+
+.h_2
+  height: 470px
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    height: 500px
+  @media (max-width: $bp-max-md)
+    height: 655px
 
 .bg_fondo2-t2
   position: relative
@@ -204,12 +236,13 @@
     background-size: cover 
 
 .bg_fondoslyder-t2
-  background-image: url("../assets/curso/tema2/imgfondo-slyder.svg")
+  background-color: #1565C0
   background-repeat: no-repeat
   background-size: 100% 100%
   border-radius: 19px!important
+  @media (max-width: $bp-max-md)
+    background-size: cover
 
-  
 .t1_text
   font-size: 14px
 
@@ -226,7 +259,10 @@
 .bg_fondo4
   background-image: url("../assets/curso/tema2/img36.svg")
   background-repeat: no-repeat
+  background-size: 100% auto
   border-radius: 10px
+  @media (max-width: $bp-max-md)
+    background-size: cover
 
 .bg_fondo5-t2
   position: relative
@@ -264,14 +300,15 @@
     background-size: cover  
 
 .bg_fondo2-t3
-  background-image: url("../assets/curso/tema3/imgfondo2-t3.svg")
-  background-repeat: no-repeat
+  background-color: #1565C0
   border-radius: 10px
   
 .bg_slyder-t3
   background-color: #FFFFFF
-  background-repeat: no-repeat
   border-radius: 17px
+  @media (max-width: $bp-max-md)
+    width: 92%
+    margin-left: 4%
 
 .cajon-b.color-secundario:before 
     background-color: #E2F8FA
@@ -279,3 +316,21 @@
 .cajon-b:before 
     right: 58%
     bottom: 63%
+
+.tabs-c__tab--active 
+    font-weight: bold
+    color: #1565C0
+    background-color: #E2F8FA!important
+
+.tabs-c__tab 
+    background-color: #E2F8FA
+
+.tabs-c__tab:after 
+    background-color: #1565C0
+
+.m_left
+  @media (max-width: $bp-max-md)
+    margin-left: -20%
+
+.curso-main-container > .container 
+    overflow-x: inherit

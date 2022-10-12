@@ -12,15 +12,17 @@
         p(data-aos="fade-right") El desarrollo de elementos de usabilidad permitirá medir la efectividad de los sitios web o las piezas multimediales en cuanto a la manera como el usuario se relaciona con estas, pues el propósito es que desde el inicio del diseño se conciban los aspectos que se requieren en función de características que permitan la transmisión de la información de manera efectiva en las presentaciones finales de las piezas.
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img.img-t(data-aos="fade-left")(src='@/assets/curso/tema1/img01.png', alt='')
+          img.img-t.mx-auto(data-aos="fade-left")(src='@/assets/curso/tema1/img01.png', alt='')
 
+    Separador
+    
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="zoom-out-right")
         h2 1.1 El concepto de usabilidad 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         figure
-          img.img-t(data-aos="fade-right")(src='@/assets/curso/tema1/img02.png', alt='')
+          img.img-t.mx-auto(data-aos="fade-right")(src='@/assets/curso/tema1/img02.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p El concepto de usabilidad surgió a partir del nacimiento y desarrollo de internet como red global de comunicación para el intercambio masivo de información y, en estos tiempos, podría considerarse como un medio de comunicación primordial. 
         p El ingeniero de interfaces Jakob Nielsen desarrolló formalmente este concepto, donde enuncia los factores que contribuyen a que un sitio web resulte fácil de utilizar, teniendo en cuenta como actor principal al usuario, lo cual permite que el diseño esté centrado en el usuario y en su experiencia en el sitio web.
@@ -38,14 +40,14 @@
           .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Es preciso que los enlaces o hipervínculos internos y externos se ejecuten de manera correcta, así como facilitar que el usuario pueda ponerse en contacto con las áreas de soporte en caso de ser necesario. 
         p.m-0 La sencillez y limpieza en el diseño facilitan la navegabilidad de los sitios para que los usuarios siempre busquen lo que encuentran. Cuanto más sencillo sea recorrer e interactuar en la página, más efectiva resultará la localización de la información, lo que deriva en una mejor experiencia para el usuario y posiblemente ayudará a convertir el usuario en un cliente, que es uno de los objetivos al construir un sitio web. Las interfaces deben estar pensadas desde la intuición del usuario sin necesitar largos procesos de aprendizaje de manejo y ser afable.
-      .col-lg-5.mb-4
-        img.img-t(src='@/assets/curso/tema1/img04.png', alt='') 
+      .col-lg-5.mb-4(data-aos="fade-left")
+        img.img-t.mx-auto(src='@/assets/curso/tema1/img04.png', alt='') 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-4.mb-lg-0
+      .col-lg-3.mb-4.mb-lg-0.order-last.order-lg-first
         figure
-          img.img-t(data-aos="fade-right")(src='@/assets/curso/tema1/img05.png', alt='')
-      .col-lg-9(data-aos="fade-left")
+          img.img-t.mx-auto(data-aos="fade-right")(src='@/assets/curso/tema1/img05.png', alt='')
+      .col-lg-9.mb-4.mb-lg-0.order-first.order-lg-last(data-aos="fade-left")
         span.color-text1.text-bold La tipografía y el lenguaje escrito son un gran apoyo para reducir el tiempo de búsqueda 
         | y es importante resumir los contenidos para que leerlos sea una experiencia agradable y precisa y el usuario no se sobrecargue de información. También es importante tener en cuenta las decisiones de color para que estas generen legibilidad y contraste, permitiendo que la lectura sea cómoda para el usuario.
 
@@ -58,7 +60,7 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 1
           span.text-small.color_text <em>Proceso de usabilidad</em>
-        img.img-t(data-aos="fade-right")(src='@/assets/curso/tema1/img06.svg', alt='')
+        img.img-t.mx-auto(data-aos="fade-right")(src='@/assets/curso/tema1/img06.svg', alt='')
 
         p Nota. Tomada de Beltré (2008).         
 
@@ -74,7 +76,7 @@
     
     .row.justify-content-center.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.h-100
+        .tarjeta--boton.color-secundario.p-4.h-100(data-aos="fade-right")
           .row.justify-content-center.mb-3
             .col-7
               figure
@@ -84,7 +86,7 @@
           p.text-center Representa la exactitud con la que los usuarios alcanzan sus metas especificadas.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.h-100
+        .tarjeta--boton.color-secundario.p-4.h-100(data-aos="fade-up")
           .row.justify-content-center.mb-3
             .col-7
               figure
@@ -94,7 +96,7 @@
           p.text-center Los recursos gastados en relación con la certeza con la que los usuarios logran las metas.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.h-100
+        .tarjeta--boton.color-secundario.p-4.h-100(data-aos="fade-left")
           .row.justify-content-center.mb-3
             .col-7
               figure
@@ -112,20 +114,20 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 2
           span.text-small.color_text <em>Características de la usabilidad</em>
-        img.img-t(data-aos="fade-up")(src='@/assets/curso/tema1/img11.svg', alt='')
+        img.img-t.mx-auto(data-aos="fade-up")(src='@/assets/curso/tema1/img11.svg', alt='')
 
         p Nota. Tomada de Beltré (2008). 
 
     .bg_fondo1.mb-5
       p.text-center.mb-4 También es importante conocer los principios que Jakob Nielsen adaptó para la usabilidad del usuario. A continuación, se presentan cada uno de ellos.
 
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="fade-down-right")
         .col-lg-12
           .bg_fondo2
             .row.justify-content-center.align-items-center
-              .col-lg-4
+              .col-lg-4.mb-5.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema1/img12.svg', alt='')
+                  img.img-t.mx-auto(src='@/assets/curso/tema1/img12.png', alt='')
               .col-lg-7.mt-4
                 .bg_slyder1.mb-4
                   .p-4
@@ -239,59 +241,59 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7
           p.mb-4 La accesibilidad hace referencia al nivel de acceso universal que puede tener una pieza o un sitio dejando de lado el tipo de <em>software</em>, <em>hardware</em>, infraestructura, idioma cultura o localización geográfica e incluso capacidades de los usuarios. Un ejemplo claro de esto es la reducción de la accesibilidad a una página cuando esta necesita de un tipo de navegador o componente especial.          
-          .row.justify-content-center  
+          .row.justify-content-center(data-aos="fade-right") 
             .col-auto.d-none.d-lg-block
               img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
             .col-lg-10.col-xl-9.col-xxl-10
               span.color-text1.text-bold Una página es accesible si lo es para cualquier persona, sin importar las circunstancias que puedan dificultar el acceso a la información o si cuenta con alguna discapacidad.  
           p.mt-4 Por consiguiente, la accesibilidad es un elemento esencial que, además, resulta siendo un ejercicio de solidaridad con diversos perfiles de usuario para generar inclusión y no dejar a nadie al margen, un ejemplo muy ilustrativo de esto son las páginas gubernamentales que entregan información y dan soporte a todos los ciudadanos en general. 
-        .col-lg-5.mb-4
-          img.img-t(src='@/assets/curso/tema1/img25.png', alt='')  
+        .col-lg-5.mb-4(data-aos="fade-left")
+          img.img-t.mx-auto(src='@/assets/curso/tema1/img25.png', alt='')  
       
-      .bg_2.p-4.py-3.mb-4
-        .row.justify-content-center.mb-3
-          .col-lg-8.col-xl-10.col-xxl-8
-            p Las características principales de la accesibilidad se pueden resumir en el siguiente recurso de aprendizaje:
-          
+      .bg_2.p-4.py-3.mb-5
         .row.justify-content-center
-          .col-lg-4
-            img.img-t(src='@/assets/curso/tema1/img26.png', alt='')       
-          .col-lg-8
-            h4.text-center Componentes de accesibilidad
-            .bg_3.p-4.mb-5
+          .col-lg-8.col-xl-10.col-xxl-8
+            p.text-center.pt-5 Las características principales de la accesibilidad se pueden resumir en el siguiente recurso de aprendizaje:
+        
+        .bg_3.p-4  
+          .row.justify-content-center.align-items-center
+            .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+              img.img-t.mx-auto(src='@/assets/curso/tema1/img27.png', alt='')       
+            .col-lg-7(data-aos="fade-left")
+              h4.text-center.m-0 Componentes de accesibilidad                          
               SlyderE(indicadores="derecha")
                 .row
-                  .col-md-12.mb-4.mb-md-0
-                    h5 Contenido web
+                  .col-lg-12.mb-4.mb-lg-0.p-3.pe-4
+                    h5.mb-4 Contenido web
                     p Todas las partes del sitio web (texto, imágenes, multimedia, códigos de marcado, scripts, aplicaciones, entre otros) .
 
                 .row
-                  .col-md-12.mb-4.mb-md-0
-                    h5 Agentes de usuario
+                  .col-lg-12.mb-4.mb-lg-0.p-3
+                    h5.mb-4 Agentes de usuario
                     p Elementos de acceso de los usuarios para el contenido web (navegadores de escritorio, voz, teléfonos móviles, reproductores multimedia y plug-ins).
 
                 .row
-                  .col-md-12.mb-4.mb-md-0
-                    h5 Herramientas de autor
+                  .col-lg-12.mb-4.mb-lg-0.p-3.pt-5
+                    h5.mb-4 Herramientas de autor
                     p Se valen usuarios productores de contenido (editores de código, conversión de documentos, gestión de contenidos, blogs, bases de datos, etc.). 
                     p Los componentes se vinculan y se dan soporte entre sí.
 
                 .row
-                  .col-md-12.mb-4.mb-md-0
-                    p Es vital establecer los estándares para definir las exigencias de accesibilidad de los componentes. 
-                    p Algunas de estas son sencillas de atender, con la simple comprensión de cómo una persona con discapacidad usaría la web se pueden identificar e implementar mecanismos de accesibilidad; es importante entender la lógica de navegación de los usuarios, por esto es necesario que participen en ciertas etapas de diseño y en la medida que avanza el proceso de desarrollo. 
+                  .col-lg-12.mb-4.mb-lg-0.p-3
+                    p.mt-5 Es vital establecer los estándares para definir las exigencias de accesibilidad de los componentes. 
+                    p.m-0 Algunas de estas son sencillas de atender, con la simple comprensión de cómo una persona con discapacidad usaría la web se pueden identificar e implementar mecanismos de accesibilidad; es importante entender la lógica de navegación de los usuarios, por esto es necesario que participen en ciertas etapas de diseño y en la medida que avanza el proceso de desarrollo. 
         
       p.mb-5 Es importante reconocer la información tangible e interfaz de usuario, con el fin de implementar estrategias desde las siguientes necesidades:
 
-      .row.mb-5
+      .row.mb-5(data-aos="fade-down-right")
         .col-lg-12
           TabsC.color-primario.bg_5
             .py-3.py-md-4(titulo="Alternativas de texto para contenido no textual")
               .row.justify-content-center.align-items-center
-                .col-md-4.mb-4.mb-md-0
+                .col-md-12.col-lg-4
                   figure
-                    img(src='@/assets/curso/tema1/img28.svg', alt='')
-                .col-md-6
+                    img.img-t.mx-auto(src='@/assets/curso/tema1/img28.svg', alt='')
+                .col-md-12.col-lg-6
                   h4.color-text1 Alternativas de texto para contenido no textual
                   ul.lista-ul--color      
                     li
@@ -309,10 +311,10 @@
                     
             .py-3.py-md-4(titulo="Subtítulos y otras alternativas para multimedia")
               .row.justify-content-center.align-items-center
-                .col-md-4.mb-4.mb-md-0
+                .col-md-12.col-lg-4.mb-4.mb-lg-0
                   figure
-                    img(src='@/assets/curso/tema1/img29.svg', alt='')            
-                .col-md-6
+                    img.img-t.mx-auto(src='@/assets/curso/tema1/img29.svg', alt='')            
+                .col-md-12.col-lg-6
                   h4.color-text1 Subtítulos y otras alternativas para multimedia
                   ul.lista-ul--color      
                     li
@@ -327,10 +329,10 @@
               
             .py-3.py-md-4(titulo="Diferentes formas de presentar un contenido")
               .row.justify-content-center.align-items-center
-                .col-md-4.mb-4.mb-md-0
+                .col-md-12.col-lg-4.mb-4.mb-lg-0
                   figure
-                    img(src='@/assets/curso/tema1/img30.svg', alt='')
-                .col-md-6
+                    img.img-t.mx-auto(src='@/assets/curso/tema1/img30.svg', alt='')
+                .col-md-12.col-lg-6
                   h4.color-text1 Diferentes formas de presentar un contenido
                   ul.lista-ul--color      
                     li
@@ -345,10 +347,10 @@
 
             .py-3.py-md-4(titulo="Contenido más fácil de ver")
               .row.justify-content-center.align-items-center
-                .col-md-4.mb-4.mb-md-0
+                .col-md-12.col-lg-4.mb-5.mb-lg-0
                   figure
-                    img(src='@/assets/curso/tema1/img31.svg', alt='')
-                .col-md-6
+                    img.img-t.mx-auto(src='@/assets/curso/tema1/img31.svg', alt='')
+                .col-md-12.col-lg-6
                   h4.color-text1 Contenido más fácil de ver
                   ul.lista-ul--color      
                     li
@@ -366,10 +368,10 @@
             
             .py-3.py-md-4(titulo="Contenido más fácil de escuchar")
               .row.justify-content-center.align-items-center
-                .col-md-4.mb-4.mb-md-0
+                .col-md-12.col-lg-4.mb-5.mb-lg-0
                   figure
-                    img(src='@/assets/curso/tema1/img32.svg', alt='')
-                .col-md-6
+                    img.img-t.mx-auto(src='@/assets/curso/tema1/img32.svg', alt='')
+                .col-md-12.col-lg-6
                   h4.color-text1 Contenido más fácil de escuchar
                   ul.lista-ul--color      
                     li
@@ -387,8 +389,8 @@
             img.img-t(src='@/assets/curso/tema1/img33.svg', alt='')       
           .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Herramientas como accesos directos desde el teclado permiten recorrer y navegar con mayor agilidad los contenidos y para estos se deben proponer textos legibles y comprensibles que propendan por la claridad en los contenidos; además, los botones, enlaces y menús facilitan el acceso a la información haciendo la página más funcional y versátil.
-      .col-lg-5.mb-4
-        img.img-t(src='@/assets/curso/tema1/img33.png', alt='') 
+      .col-lg-5.mb-4(data-aos="fade-left")
+        img.img-t.mx-auto(src='@/assets/curso/tema1/img33.png', alt='') 
 
     .row.justify-content-center.mb-4
       .col-lg-10.col-xl-11.col-xxl-10
@@ -398,46 +400,46 @@
       .col-lg-10
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row.justify-content-center.align-items-center
-            .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
               p.color-text1 <b>Pensar los factores y componentes de accesibilidad desde la planeación e inicio del proyecto</b>
               p Esto asegurará que el resultado final tenga factores que involucren maneras de percepción y acceso desde diferentes condiciones de usuario.
             .col-lg-4(data-aos="fade-left")
               figure
-                img.img-t(src='@/assets/curso/tema1/img34.png', alt='Texto que describa la imagen')
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img34.png', alt='Texto que describa la imagen')
                 
           .row.justify-content-end.align-items-center
-            .col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-4.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t(src='@/assets/curso/tema1/img35.png', alt='Texto que describa la imagen')                
-            .col-lg-7.text-start(data-aos="fade-left")
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img35.png', alt='Texto que describa la imagen')                
+            .col-lg-7.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
               p.color-text1 <b>Tener en cuenta el tipo de dispositivo desde el que se accede al contenido</b> 
               p Esto es importante para que el diseño sea adaptable e incrementar la experiencia de usuario, para hacer más fácil la navegación y aumentar la usabilidad. 
               
           .row.justify-content-center.align-items-center
-            .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
               p.color-text1 <b>Utilizar las herramientas con funcionalidad enfocada en accesibilidad</b> 
               p Es importante emplear <em>software</em> que permita corrección y revisión de errores en los contenidos y en el acceso a la información documentada, y que brinde un diagnóstico automático que se realiza con instrucciones detalladas para el usuario.       
             .col-lg-4(data-aos="fade-left")
               figure
-                img.img-t(src='@/assets/curso/tema1/img36.png', alt='Texto que describa la imagen')
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img38.png', alt='Texto que describa la imagen')
 
           .row.justify-content-end.align-items-center
-            .col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-4.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')                
-            .col-lg-7.text-start(data-aos="fade-left")
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img36.png', alt='Texto que describa la imagen')                
+            .col-lg-7.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
               p.color-text1 <b>El contraste de color es imprescindible</b> 
               p Los colores entre el fondo y los textos proporcionan la distinción de los elementos de diseño, para que la navegación sea una tarea fácil no solo para personas con discapacidad, sino para todos en general; aplica a imágenes, gráficos, tablas y cajas de texto.
               
           .row.justify-content-center.align-items-center
-            .col-lg-7.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
               p.color-text1 <b>Incluir descripciones alternativas</b> 
               p Apoyar contenidos con descripciones y subtítulos en imágenes, gráficos, videos y figuras asegurará la comunicación y comprensión de la información, convirtiéndose esto en un valor añadido del proyecto.
             .col-lg-4(data-aos="fade-left")
               figure
-                img.img-t(src='@/assets/curso/tema1/img38.png', alt='Texto que describa la imagen')
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')
 
-    .bg_6.p-4
+    .bg_6.p-4(data-aos="fade-down-right")
       p.mb-4 Es importante revisar el siguiente esquema propuesto por Castillo (2020), donde se podrá tener una visión general de los elementos relacionados con las temáticas que se vienen abordando de accesibilidad y usabilidad, esto ayudará a realizar un mejor diseño de las piezas multimediales o el diseño de la página web:
       .row.justify-content-center
         .col-lg-9

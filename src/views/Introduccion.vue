@@ -15,12 +15,12 @@
           figure(data-aos="fade-right")
             img.img-t.mx-auto(src='@/assets/curso/introduccion/imgintro.svg')
         .col-lg-8
-          .bloque-texto-a__texto.p-4
+          .bloque-texto-a__texto.p-4(data-aos="fade-left")
             p.m-0 Le invitamos a revisar el siguiente video para comprender algunas indicaciones iniciales del proceso de aprendizaje y los elementos de abordaje acerca de la 
              span.color-text1.text-bold usabilidad y accesibilidad de los elementos gráficos, 
              | audiovisuales e interactivos de este componente formativo:
 
-    figure
+    figure(data-aos="fade-right")
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/gy78yUR1WgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 
