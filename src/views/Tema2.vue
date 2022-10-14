@@ -381,7 +381,7 @@
               .pe-5.pe-lg-0
                 SlyderE(indicadores="derecha").color_slyder-a_botones
                   .row.justify-content-center
-                    .col-lg-10.pe-5.pe-lg-0                  
+                    .col-lg-10.px-5.px-lg-0
                       figure.mb-4
                         img.img-t.mx-auto(src='@/assets/curso/tema2/img30.svg', alt='AvatarTop') 
                       h5.mb-4 Attention Insight
@@ -396,7 +396,7 @@
                               p.t1_text <b>Enlace web.</b> How to Use Attention Insight App | AI
 
                   .row.justify-content-center
-                    .col-lg-10.pe-5.pe-lg-0                   
+                    .col-lg-10.px-5.px-lg-0               
                       figure.mb-4
                         img.img-t(src='@/assets/curso/tema2/img31.svg', alt='AvatarTop') 
                       h5.mb-4 Page Speed Insight
@@ -411,7 +411,7 @@
                               p.t1_text <b>Enlace web.</b> Tutorial Google PageSpeed - 2019
 
                   .row.justify-content-center
-                    .col-lg-10.pe-5.pe-lg-0                   
+                    .col-lg-10.px-5.px-lg-0                
                       figure.mb-4
                         img.img-t(src='@/assets/curso/tema2/img32.svg', alt='AvatarTop') 
                       h5.mb-4 Pingdom Tool
@@ -426,7 +426,7 @@
                               p.t1_text <b>Enlace web.</b> Cómo usar e interpretar Pingdom Tools para medir la velocidad de una web
 
                   .row.justify-content-center
-                    .col-lg-10.pe-5.pe-lg-0                   
+                    .col-lg-10.px-5.px-lg-0                   
                       figure.mb-4
                         img.img-t(src='@/assets/curso/tema2/img33.svg', alt='AvatarTop') 
                       h5.mb-4 Google Optimize
@@ -441,7 +441,7 @@
                               p.t1_text <b>Enlace web.</b> Curso Google Optimize [VÍDEO #1]: ¿Qué es Google Optimize y cómo instalarlo?
 
                   .row.justify-content-center
-                    .col-lg-10.pe-5.pe-lg-0                   
+                    .col-lg-10.px-5.px-lg-0                   
                       figure.mb-4
                         img.img-t(src='@/assets/curso/tema2/img34.svg', alt='AvatarTop') 
                       h5.mb-4 Optimizely

@@ -86,7 +86,7 @@
           p.text-center Representa la exactitud con la que los usuarios alcanzan sus metas especificadas.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4.h-100(data-aos="fade-up")
+        .tarjeta--boton.color-secundario.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure

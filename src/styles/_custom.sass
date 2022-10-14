@@ -106,7 +106,9 @@
   border-radius: 17px
   @media (max-width: $bp-max-md)
     width: calc( 100% + 5rem)
-    margin-left: -8%
+    margin-left: -7%
+  @media (max-width: $bp-max-xs)
+    margin-left: -13%
   
 .bg_slyder1-2
   background-color: #FFFFFF
@@ -272,6 +274,8 @@
   border-radius: 19px!important
   @media (max-width: $bp-max-md)
     background-size: cover
+    width: 124%
+    margin-left: -12%
 
 .t1_text
   font-size: 14px
@@ -363,4 +367,7 @@
     margin-left: -20%
 
 .curso-main-container > .container 
-    overflow-x: inherit
+    overflow-x: hidden
+
+.curso-main-container > .container 
+    overflow-y: hidden
