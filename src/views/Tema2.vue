@@ -378,82 +378,81 @@
               img.img-t.mx-auto(src='@/assets/curso/tema2/img29.svg', alt='')
           .col-lg-8.mt-4
             .bg_slyder1-2.mb-4
-              .pe-5.pe-lg-0
-                SlyderE(indicadores="derecha").color_slyder-a_botones
-                  .row.justify-content-center
-                    .col-lg-10.px-5.px-lg-0
-                      figure.mb-4
-                        img.img-t.mx-auto(src='@/assets/curso/tema2/img30.svg', alt='AvatarTop') 
-                      h5.mb-4 Attention Insight
-                      p Aporta al foco de atención, se basa en la capacidad de Inteligencia Artificial (IA) para detectar elementos que provocan atención al visitante, es importante al momento de plantear una estrategia que se basa en el diseño, no necesita de usuarios reales para esperar resultados; posee una opción demo y otras de pago.
-                      p.mb-4 ¿Cómo funciona Attention Insight?
-                      .row
-                        .col-lg-8
-                          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=1Z4FJKIPn3U" target="_blank")
-                            .anexo__icono
-                              img(src="@/assets/template/icono-link.svg")
-                            .anexo__texto
-                              p.t1_text <b>Enlace web.</b> How to Use Attention Insight App | AI
+              SlyderE(indicadores="derecha").color_slyder-a_botones
+                .row.justify-content-center
+                  .col-lg-10.px-5.px-lg-0
+                    figure.mb-4
+                      img.img-t.mx-auto(src='@/assets/curso/tema2/img30.svg', alt='AvatarTop') 
+                    h5.mb-4 Attention Insight
+                    p Aporta al foco de atención, se basa en la capacidad de Inteligencia Artificial (IA) para detectar elementos que provocan atención al visitante, es importante al momento de plantear una estrategia que se basa en el diseño, no necesita de usuarios reales para esperar resultados; posee una opción demo y otras de pago.
+                    p.mb-4 ¿Cómo funciona Attention Insight?
+                    .row
+                      .col-lg-8
+                        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=1Z4FJKIPn3U" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p.t1_text <b>Enlace web.</b> How to Use Attention Insight App | AI
 
-                  .row.justify-content-center
-                    .col-lg-10.px-5.px-lg-0               
-                      figure.mb-4
-                        img.img-t(src='@/assets/curso/tema2/img31.svg', alt='AvatarTop') 
-                      h5.mb-4 Page Speed Insight
-                      p Esta herramienta forma parte de la familia de Google y su función es evaluar cada página que ellos consideran frente a unas prácticas de rendimiento; enfocada para desarrolladores que tienen la posibilidad de extraer el reporte, para generar sus cambios.
-                      p.mb-4 Tutorial y optimización:
-                      .row
-                        .col-lg-8
-                          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=oF1Eja0Id2A" target="_blank")
-                            .anexo__icono
-                              img(src="@/assets/template/icono-link.svg")
-                            .anexo__texto
-                              p.t1_text <b>Enlace web.</b> Tutorial Google PageSpeed - 2019
+                .row.justify-content-center
+                  .col-lg-10.px-5.px-lg-0               
+                    figure.mb-4
+                      img.img-t(src='@/assets/curso/tema2/img31.svg', alt='AvatarTop') 
+                    h5.mb-4 Page Speed Insight
+                    p Esta herramienta forma parte de la familia de Google y su función es evaluar cada página que ellos consideran frente a unas prácticas de rendimiento; enfocada para desarrolladores que tienen la posibilidad de extraer el reporte, para generar sus cambios.
+                    p.mb-4 Tutorial y optimización:
+                    .row
+                      .col-lg-8
+                        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=oF1Eja0Id2A" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p.t1_text <b>Enlace web.</b> Tutorial Google PageSpeed - 2019
 
-                  .row.justify-content-center
-                    .col-lg-10.px-5.px-lg-0                
-                      figure.mb-4
-                        img.img-t(src='@/assets/curso/tema2/img32.svg', alt='AvatarTop') 
-                      h5.mb-4 Pingdom Tool
-                      p Realiza una prueba rápida de velocidad con la que se cargan los elementos de una página web, altamente útil al momento de optimizar los tiempos de carga; herramienta de pago mensual. 
-                      p.mb-4 ¿Cómo usar Pigdom Tools?
-                      .row
-                        .col-lg-8
-                          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5-V7nNdOtjs" target="_blank")
-                            .anexo__icono
-                              img(src="@/assets/template/icono-link.svg")
-                            .anexo__texto
-                              p.t1_text <b>Enlace web.</b> Cómo usar e interpretar Pingdom Tools para medir la velocidad de una web
+                .row.justify-content-center
+                  .col-lg-10.px-5.px-lg-0                
+                    figure.mb-4
+                      img.img-t(src='@/assets/curso/tema2/img32.svg', alt='AvatarTop') 
+                    h5.mb-4 Pingdom Tool
+                    p Realiza una prueba rápida de velocidad con la que se cargan los elementos de una página web, altamente útil al momento de optimizar los tiempos de carga; herramienta de pago mensual. 
+                    p.mb-4 ¿Cómo usar Pigdom Tools?
+                    .row
+                      .col-lg-8
+                        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5-V7nNdOtjs" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p.t1_text <b>Enlace web.</b> Cómo usar e interpretar Pingdom Tools para medir la velocidad de una web
 
-                  .row.justify-content-center
-                    .col-lg-10.px-5.px-lg-0                   
-                      figure.mb-4
-                        img.img-t(src='@/assets/curso/tema2/img33.svg', alt='AvatarTop') 
-                      h5.mb-4 Google Optimize
-                      p Identifica las experiencias de los usuarios con las que más los atraen, se basa en las herramientas analíticas de Google. Es gratis y se integra con otras aplicaciones de Google generar mejores resultados.
-                      p.mb-4 ¿Qué es Google Optimize?
-                      .row
-                        .col-lg-8
-                          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=jqKdzMV8pNY" target="_blank")
-                            .anexo__icono
-                              img(src="@/assets/template/icono-link.svg")
-                            .anexo__texto
-                              p.t1_text <b>Enlace web.</b> Curso Google Optimize [VÍDEO #1]: ¿Qué es Google Optimize y cómo instalarlo?
+                .row.justify-content-center
+                  .col-lg-10.px-5.px-lg-0                   
+                    figure.mb-4
+                      img.img-t(src='@/assets/curso/tema2/img33.svg', alt='AvatarTop') 
+                    h5.mb-4 Google Optimize
+                    p Identifica las experiencias de los usuarios con las que más los atraen, se basa en las herramientas analíticas de Google. Es gratis y se integra con otras aplicaciones de Google generar mejores resultados.
+                    p.mb-4 ¿Qué es Google Optimize?
+                    .row
+                      .col-lg-8
+                        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=jqKdzMV8pNY" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p.t1_text <b>Enlace web.</b> Curso Google Optimize [VÍDEO #1]: ¿Qué es Google Optimize y cómo instalarlo?
 
-                  .row.justify-content-center
-                    .col-lg-10.px-5.px-lg-0                   
-                      figure.mb-4
-                        img.img-t(src='@/assets/curso/tema2/img34.svg', alt='AvatarTop') 
-                      h5.mb-4 Optimizely
-                      p Tiene características parecidas las ofrecidas por Google, pero con el plus de potenciar los proyectos digitales con sus propias herramientas, comprueba funciones, toma decisiones frente a otros datos y se apoya de prueba para la toma de decisiones.
-                      p.mb-4 Introducción a Optimizely:
-                      .row
-                        .col-lg-8
-                          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=dEb2rxuCfUc" target="_blank")
-                            .anexo__icono
-                              img(src="@/assets/template/icono-link.svg")
-                            .anexo__texto
-                              p.t1_text <b>Enlace web.</b> Introduction to Optimizely
+                .row.justify-content-center
+                  .col-lg-10.px-5.px-lg-0                   
+                    figure.mb-4
+                      img.img-t(src='@/assets/curso/tema2/img34.svg', alt='AvatarTop') 
+                    h5.mb-4 Optimizely
+                    p Tiene características parecidas las ofrecidas por Google, pero con el plus de potenciar los proyectos digitales con sus propias herramientas, comprueba funciones, toma decisiones frente a otros datos y se apoya de prueba para la toma de decisiones.
+                    p.mb-4 Introducción a Optimizely:
+                    .row
+                      .col-lg-8
+                        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=dEb2rxuCfUc" target="_blank")
+                          .anexo__icono
+                            img(src="@/assets/template/icono-link.svg")
+                          .anexo__texto
+                            p.t1_text <b>Enlace web.</b> Introduction to Optimizely
 
       .row.justify-content-center.mb-4
         .col-lg-10(data-aos="fade-right")
