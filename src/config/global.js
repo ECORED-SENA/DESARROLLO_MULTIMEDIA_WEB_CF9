@@ -133,7 +133,7 @@ export default {
     {
       tema: 'Herramientas para mejorar la accesibilidad',
       referencia:
-        'Cataldo Sandoval, R. (2020). Accesibilidad neb, nuevas herramientas. [Video]. YouTube.',
+        'Cataldo Sandoval, R. (2020). Accesibilidad web, nuevas herramientas para PICTOS. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5wM3tny5j_M',
     },
@@ -177,7 +177,7 @@ export default {
     {
       termino: 'UX',
       significado:
-        'experiencia de usuario, elementos que desarrollan mejores experiencias para la interactividad con un elemento (Acámica, 2020).',
+        'se centra en la experiencia general del usuario final, incluidas sus percepciones, emociones y respuestas al producto, sistema o servicio de una empresa. (Hubspot, 2020).',
     },
     {
       termino: '<em>Wireframes</em>',
@@ -186,12 +186,6 @@ export default {
     },
   ],
   referencias: [
-    {
-      referencia:
-        'Acámica. (2020). Diseño UX/UI: qué es y cuáles son los distintos roles. Blog acámica.',
-      link:
-        'https://blog.acamica.com/diseno-ux-ui-cuales-son-sus-funciones-y-por-que-es-una-apuesta-segura/',
-    },
     {
       referencia:
         'Beltré, F., H. J. (2008). Aplicación de la usabilidad al proceso de desarrollo de páginas web. Upm.',
@@ -221,6 +215,11 @@ export default {
       referencia:
         'Hotmart. (s.f.). Entiende qué es CPC y empieza tus campañas pagadas con buen pie. Blog Hotmart.',
       link: 'https://blog.hotmart.com/es/que-es-cpc/',
+    },
+    {
+      referencia:
+        'Hubspot. (2020). Diseño UX: guía completa sobre la experiencia de usuario.',
+      link: 'https://blog.hubspot.es/marketing/experiencia-de-usuario-ux',
     },
     {
       referencia:

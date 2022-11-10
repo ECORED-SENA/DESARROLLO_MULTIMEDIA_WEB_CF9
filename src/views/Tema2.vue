@@ -9,12 +9,12 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-7.mb-4.mb-lg-0
-        p.m-0 Existen muchos métodos de prueba que permiten evaluar la usabilidad de los sitios web, partiendo del análisis de pequeños grupos de usuarios, hasta cientos o miles, así como lo hacen en las encuestas o los grupos de enfoque que son más sectorizados, todos estos dependen de los alcances propuestos y los resultados esperados.
+        p.m-0 Existen muchos métodos de prueba que permiten evaluar la usabilidad de los sitios <em>web</em>, partiendo del análisis de pequeños grupos de usuarios, hasta cientos o miles, así como lo hacen en las encuestas o los grupos de enfoque que son más sectorizados, todos estos dependen de los alcances propuestos y los resultados esperados.
         .row.justify-content-center.mt-4   
           .col-auto.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema2/img02.svg', alt='')       
           .col-lg-10.col-xl-9.col-xxl-10
-            p.mb-4(data-aos="fade-down") Para verificar la optimización de los sitios web, se debe incrementar la relación con los usuarios aumentando la cantidad de visitas lo que permitirá medir el uso y la interacción de los usuarios con las herramientas y elementos que se disponen en los contenidos web.
+            p.mb-4(data-aos="fade-down") Para verificar la optimización de los sitios <em>web</em>, se debe incrementar la relación con los usuarios aumentando la cantidad de visitas lo que permitirá medir el uso y la interacción de los usuarios con las herramientas y elementos que se disponen en los contenidos <em>web</em>.
         p.m-0 Es importante recordar que los criterios a tener presente para la medición de la accesibilidad y la usabilidad tienen como base la experiencia óptima del usuario, y que se debe propender por un diseño acorde y con una estética conceptual. 
       .col-lg-5.mb-4(data-aos="fade-left")
         img.img-t.mx-auto(src='@/assets/curso/tema2/img01.svg', alt='') 
@@ -39,9 +39,9 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Pasillo de pruebas") Permiten analizar características generales para todos los perfiles con el fin de identificar características de complicidad y usabilidad. <br><br>Es una opción rápida y económica  en la que se seleccionan los participantes al azar, esto ayuda a que la muestra contemple variabilidad de los individuos ya que sus perfiles, cualidades, percepciones y habilidades son diferentes. 
           
-          p(numero="2" titulo="Prueba de usabilidad remota") En escenarios de usabilidad es habitual que los usuarios pertenezcan a diferentes regiones y zonas horarias, convirtiendo este aspecto en un reto. <br><br>Este tipo de pruebas permiten que usuarios en diferentes regiones aporten datos e información valiosas, pero se pueden presentar inconvenientes al momento de comunicarlas en un horario no hábil, o que no se cuente con el registro exacto de cuál fue el usuario que realiza la prueba.
+          p(numero="2" titulo="Prueba de usabilidad remota") En escenarios de usabilidad es habitual que los usuarios pertenezcan a diferentes regiones y zonas horarias, convirtiendo este aspecto en un reto. <br><br>Este tipo de pruebas permiten que usuarios en diferentes regiones aporten datos e información valiosos, pero se pueden presentar inconvenientes al momento de comunicarlas en un horario no hábil, o que no se cuente con el registro exacto de cuál fue el usuario que realiza la prueba.
           
-          p(numero="3" titulo="Metodologías asíncronas") Es un registro automático que se obtiene cuando un usuario navega en un sitio, permitiendo saber cómo fue su recorrido, los clics realizados, tiempos y comportamiento dejando una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. <br><br>Esta información es relevante para las empresas, con el fin de comprender sus usuarios, lo que ellos que hacen y cómo se desenvuelven al momento de navegar por un sitio web. 
+          p(numero="3" titulo="Metodologías asíncronas") Es un registro automático que se obtiene cuando un usuario navega en un sitio, permitiendo saber cómo fue su recorrido, los clics realizados, tiempos y comportamiento dejando una retroalimentación concisa al mostrar errores o incidentes mientras se interactuaba. <br><br>Esta información es relevante para las empresas, con el fin de comprender sus usuarios, lo que ellos que hacen y cómo se desenvuelven al momento de navegar por un sitio <em>web</em>. 
           
           p(numero="4" titulo="Heurística de Nielsen ") Presenta los elementos que se deben considerar al momento de evaluar el diseño de las interfaces de usuario:<br><br> - Visibilidad del estado del sistema. <br> - Utilizar el lenguaje de los usuarios. <br>	- Control y libertad para el usuario. <br> - Consistencia y estándares. <br> - Prevención de errores. <br> - Minimizar la carga de la memoria del usuario. <br> - Flexibilidad y eficiencia de uso. <br> - Diagnósticos estéticos y diseño minimalista. <br> - Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores. <br> - Ayuda y documentación. 
 
@@ -144,7 +144,7 @@
       .col-auto.d-none.d-lg-block
         img.img-t(src='@/assets/curso/tema2/img02.svg', alt='')       
       .col-lg-10
-        p.mb-4(data-aos="fade-down") Cuando se tiene una mala experiencia con una página web es posible que el 88% de los usuarios de primera experiencia planteen no volver a ingresar; al igual que casi el 40% cierran las pestañas si los elementos tardan en cargar. Este tipo de situaciones obligan a la revisión del contenido y, además de examinar los problemas que pueden construir una mala imagen en el ideal de los usuarios, algunas herramientas ayudarán y mejorarán la optimización de las páginas web y aportan desde el marco de la usabilidad y la accesibilidad.
+        p.mb-4(data-aos="fade-down") Cuando se tiene una mala experiencia con una página <em>web</em> es posible que el 88% de los usuarios de primera experiencia planteen no volver a ingresar; al igual que casi el 40% cierran las pestañas si los elementos tardan en cargar. Este tipo de situaciones obligan a la revisión del contenido y, además de examinar los problemas que pueden construir una mala imagen en el ideal de los usuarios, algunas herramientas ayudarán y mejorarán la optimización de las páginas <em>web</em> y aportan desde el marco de la usabilidad y la accesibilidad.
 
     .row.mb-4(data-aos="fade-right")
       .col-auto
@@ -414,7 +414,7 @@
                     figure.mb-4
                       img.img-t(src='@/assets/curso/tema2/img32.svg', alt='AvatarTop') 
                     h5.mb-4 Pingdom Tool
-                    p Realiza una prueba rápida de velocidad con la que se cargan los elementos de una página web, altamente útil al momento de optimizar los tiempos de carga; herramienta de pago mensual. 
+                    p Realiza una prueba rápida de velocidad con la que se cargan los elementos de una página <em>web</em>, altamente útil al momento de optimizar los tiempos de carga; herramienta de pago mensual. 
                     p.mb-4 ¿Cómo usar Pigdom Tools?
                     .row
                       .col-lg-8
@@ -422,7 +422,7 @@
                           .anexo__icono
                             img(src="@/assets/template/icono-link.svg")
                           .anexo__texto
-                            p.t1_text <b>Enlace web.</b> Cómo usar e interpretar Pingdom Tools para medir la velocidad de una web
+                            p.t1_text <b>Enlace web.</b> Cómo usar e interpretar Pingdom Tools para medir la velocidad de una <em>web</em>
 
                 .row.justify-content-center
                   .col-lg-10.px-5.px-lg-0                   
@@ -460,7 +460,7 @@
             .row.m-0.align-items-center.justify-content-between
               .col-lg-8.mb-4.mb-lg-0
                 .bloque-texto-a__texto.p-4
-                  p La finalidad de todas estas herramientas es poder comunicar de una mejor manera las ideas que se quedan cortas al momento de expresar los conceptos en las páginas web, ya que las personas que hoy visitan el día de mañana se convertirán en futuros clientes, mejorando las experiencias de los usuarios.           
+                  p La finalidad de todas estas herramientas es poder comunicar de una mejor manera las ideas que se quedan cortas al momento de expresar los conceptos en las páginas <em>web</em>, ya que las personas que hoy visitan el día de mañana se convertirán en futuros clientes, mejorando las experiencias de los usuarios.           
               .col-lg-4
                 img(src='@/assets/curso/tema2/img35.png' alt='AvatarTop') 
 

@@ -28,21 +28,21 @@
                   .p-3.p-lg-5 
                     SlyderE(indicadores="derecha").color_slyder-a_botones.m_sly-action
                       .row.justify-content-center
-                        .col-10.col-md-11.col-lg-12.m_left  
+                        .col-10.col-md-11.col-lg-12
                           h4 Distinguir entre problemas de accesibilidad y de usabilidad
                           p Cuando se empieza a trabajar en la construcción de un producto o proyecto, no se piensa comúnmente en diferenciar estas características, pues existe una zona gris donde comparten elementos, pero es importante empezar a construir conceptos que puedan ayudar a diferenciarlos.                        
                           figure
                             img.img-t.mx-auto(src='@/assets/curso/tema3/img04.png', alt='AvatarTop')
                           
                       .row.justify-content-center
-                        .col-10.col-md-11.col-lg-12.m_left
+                        .col-10.col-md-11.col-lg-12
                           h4.mb-4 Incluir parámetros relevantes del estudio
                           p Es necesario que la información que se relaciona sea relevante, actualizada y contable, por eso es importante apoyarse en las herramientas disponibles que entregan datos para el informe y algunos parámetros de evaluación; además, no se pueden a un lado las características de los usuarios, ser objetivos al momento de escoger las pruebas de usabilidad y garantizar que no se relacionen datos incorrectos.                        
                           figure
                             img.img-t.mx-auto(src='@/assets/curso/tema3/img06.png', alt='AvatarTop')
 
                       .row.justify-content-center
-                        .col-10.col-md-11.col-lg-12.m_left
+                        .col-10.col-md-11.col-lg-12
                           h4.mb-4 Elaborar las conclusiones
                           p Se deben entregar los resultados reales, y por más cortos que sean estos es importante ser concreto al expresar las conclusiones; al igual es una muestra clara y representativa de los usuarios, conociendo si los resultados fueron los esperados.                        
                           figure

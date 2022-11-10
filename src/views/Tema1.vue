@@ -9,7 +9,7 @@
 
     .row.justify-content-center
       .col-lg-7
-        p(data-aos="fade-right") El desarrollo de elementos de usabilidad permitirá medir la efectividad de los sitios web o las piezas multimediales en cuanto a la manera como el usuario se relaciona con estas, pues el propósito es que desde el inicio del diseño se conciban los aspectos que se requieren en función de características que permitan la transmisión de la información de manera efectiva en las presentaciones finales de las piezas.
+        p(data-aos="fade-right") El desarrollo de elementos de usabilidad permitirá medir la efectividad de los sitios <em>web</em> o las piezas multimediales en cuanto a la manera como el usuario se relaciona con estas, pues el propósito es que desde el inicio del diseño se conciban los aspectos que se requieren en función de características que permitan la transmisión de la información de manera efectiva en las presentaciones finales de las piezas.
       .col-lg-5.mb-4.mb-lg-0
         figure
           img.img-t.mx-auto(data-aos="fade-left")(src='@/assets/curso/tema1/img01.png', alt='')
@@ -25,7 +25,7 @@
           img.img-t.mx-auto(data-aos="fade-right")(src='@/assets/curso/tema1/img02.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p El concepto de usabilidad surgió a partir del nacimiento y desarrollo de internet como red global de comunicación para el intercambio masivo de información y, en estos tiempos, podría considerarse como un medio de comunicación primordial. 
-        p El ingeniero de interfaces Jakob Nielsen desarrolló formalmente este concepto, donde enuncia los factores que contribuyen a que un sitio web resulte fácil de utilizar, teniendo en cuenta como actor principal al usuario, lo cual permite que el diseño esté centrado en el usuario y en su experiencia en el sitio web.
+        p El ingeniero de interfaces Jakob Nielsen desarrolló formalmente este concepto, donde enuncia los factores que contribuyen a que un sitio <em>web</em> resulte fácil de utilizar, teniendo en cuenta como actor principal al usuario, lo cual permite que el diseño esté centrado en el usuario y en su experiencia en el sitio <em>web</em>.
         .bg_1.p-4
           p.m-0 La usabilidad posibilita que las personas que navegan en diferentes interfaces alcancen los propósitos con el mínimo esfuerzo, llegando a resultados y alcanzando sus objetivos, siendo capaz de recorrer la construcción gráfica de forma simple y eficiente, al tiempo que maneja el sitio con control propio.  
     
@@ -39,7 +39,7 @@
             img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
           .col-lg-10.col-xl-9.col-xxl-10
             p.mb-4(data-aos="fade-down") Es preciso que los enlaces o hipervínculos internos y externos se ejecuten de manera correcta, así como facilitar que el usuario pueda ponerse en contacto con las áreas de soporte en caso de ser necesario. 
-        p.m-0 La sencillez y limpieza en el diseño facilitan la navegabilidad de los sitios para que los usuarios siempre busquen lo que encuentran. Cuanto más sencillo sea recorrer e interactuar en la página, más efectiva resultará la localización de la información, lo que deriva en una mejor experiencia para el usuario y posiblemente ayudará a convertir el usuario en un cliente, que es uno de los objetivos al construir un sitio web. Las interfaces deben estar pensadas desde la intuición del usuario sin necesitar largos procesos de aprendizaje de manejo y ser afable.
+        p.m-0 La sencillez y limpieza en el diseño facilitan la navegabilidad de los sitios para que los usuarios siempre busquen lo que encuentran. Cuanto más sencillo sea recorrer e interactuar en la página, más efectiva resultará la localización de la información, lo que deriva en una mejor experiencia para el usuario y posiblemente ayudará a convertir el usuario en un cliente, que es uno de los objetivos al construir un sitio <em>web</em>. Las interfaces deben estar pensadas desde la intuición del usuario sin necesitar largos procesos de aprendizaje de manejo y ser afable.
       .col-lg-5.mb-4(data-aos="fade-left")
         img.img-t.mx-auto(src='@/assets/curso/tema1/img04.png', alt='') 
 
@@ -68,7 +68,7 @@
       .col-auto.d-none.d-lg-block
         img.img-t(src='@/assets/curso/tema1/img07.svg', alt='')       
       .col-lg-10
-        p(data-aos="fade-down") Ahora, se debe revisar con atención el flujograma del proceso e identificar los puntos más críticos y cada uno de los pasos que se deben realizar para garantizar la aplicación de usabilidad en el diseño de páginas web. 
+        p(data-aos="fade-down") Ahora, se debe revisar con atención el flujograma del proceso e identificar los puntos más críticos y cada uno de los pasos que se deben realizar para garantizar la aplicación de usabilidad en el diseño de páginas <em>web</em>. 
 
     .row.justify-content-center.mb-5
       .col-lg-8.col-xl-9.col-xxl-8
@@ -145,7 +145,7 @@
                       .row
                         .col-lg-12
                           h5.mb-4 2. Relación entre el sistema y el mundo real
-                          p Las interfaces y los sitios web deben estar pensadas en torno al lenguaje de usuario usando expresiones y palabras familiares, es muy importante que la información se muestre en un orden sensato y natural. 
+                          p Las interfaces y los sitios <em>web</em> deben estar pensadas en torno al lenguaje de usuario usando expresiones y palabras familiares, es muy importante que la información se muestre en un orden sensato y natural. 
                           .row.justify-content-center.mb-4
                             .col-lg-10
                               figure
@@ -170,7 +170,7 @@
                             .col-lg-12
                               figure
                                 img.img-t.mx-auto(src='@/assets/curso/tema1/img18.png', alt='AvatarTop')
-                          p.m-0 Ejemplo: un estándar de un sitio web es la situación del logo en la cabecera, en la parte superior izquierda de la página. El icono de menú en móvil (llamado menú hamburguesa) también se ha convertido en un estándar y el usuario lo identifica fácilmente.
+                          p.m-0 Ejemplo: un estándar de un sitio <em>web</em> es la situación del logo en la cabecera, en la parte superior izquierda de la página. El icono de menú en móvil (llamado menú hamburguesa) también se ha convertido en un estándar y el usuario lo identifica fácilmente.
 
                       .row
                         .col-lg-12
@@ -210,7 +210,7 @@
                             .col-lg-10
                               figure
                                 img.img-t.mx-auto(src='@/assets/curso/tema1/img22.png', alt='AvatarTop')
-                          p.m-0 Ejemplo: la tendencia del diseño actual en la web. Apple, el líder del minimalismo.
+                          p.m-0 Ejemplo: la tendencia del diseño actual en la <em>web</em>. Apple, el líder del minimalismo.
 
                       .row
                         .col-lg-12
@@ -230,7 +230,7 @@
                             .col-lg-7
                               figure
                                 img.img-t.mx-auto(src='@/assets/curso/tema1/img24.png', alt='AvatarTop')
-                          p.m-0 Ejemplo: la web de Iberia reserva un espacio importante y fácilmente localizable para la opción de ayuda.
+                          p.m-0 Ejemplo: la <em>web</em> de Iberia reserva un espacio importante y fácilmente localizable para la opción de ayuda.
 
     Separador        
 
@@ -240,7 +240,7 @@
     .bg_fondo3
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7
-          p.mb-4 La accesibilidad hace referencia al nivel de acceso universal que puede tener una pieza o un sitio dejando de lado el tipo de <em>software</em>, <em>hardware</em>, infraestructura, idioma cultura o localización geográfica e incluso capacidades de los usuarios. Un ejemplo claro de esto es la reducción de la accesibilidad a una página cuando esta necesita de un tipo de navegador o componente especial.          
+          p.mb-4 La accesibilidad hace referencia al nivel de acceso universal que puede tener una pieza o un sitio dejando de lado el tipo de <em>software</em>, <em>hardware</em>, infraestructura, idioma, cultura o localización geográfica e incluso capacidades de los usuarios. Un ejemplo claro de esto es la reducción de la accesibilidad a una página cuando esta necesita de un tipo de navegador o componente especial.          
           .row.justify-content-center(data-aos="fade-right") 
             .col-auto.d-none.d-lg-block
               img.img-t(src='@/assets/curso/tema1/img03.svg', alt='')       
@@ -264,13 +264,13 @@
               SlyderE(indicadores="derecha")
                 .row
                   .col-lg-12.mb-4.mb-lg-0.p-3.pe-4
-                    h5.mb-4 Contenido web
-                    p Todas las partes del sitio web (texto, imágenes, multimedia, códigos de marcado, scripts, aplicaciones, entre otros) .
+                    h5.mb-4 Contenido <em>web</em>
+                    p Todas las partes del sitio <em>web</em> (texto, imágenes, multimedia, códigos de marcado, scripts, aplicaciones, entre otros).
 
                 .row
                   .col-lg-12.mb-4.mb-lg-0.p-3
                     h5.mb-4 Agentes de usuario
-                    p Elementos de acceso de los usuarios para el contenido web (navegadores de escritorio, voz, teléfonos móviles, reproductores multimedia y plug-ins).
+                    p Elementos de acceso de los usuarios para el contenido <em>web</em> (navegadores de escritorio, voz, teléfonos móviles, reproductores multimedia y plug-ins).
 
                 .row
                   .col-lg-12.mb-4.mb-lg-0.p-3.pt-5
@@ -281,7 +281,7 @@
                 .row
                   .col-lg-12.mb-4.mb-lg-0.p-3
                     p.mt-5 Es vital establecer los estándares para definir las exigencias de accesibilidad de los componentes. 
-                    p.m-0 Algunas de estas son sencillas de atender, con la simple comprensión de cómo una persona con discapacidad usaría la web se pueden identificar e implementar mecanismos de accesibilidad; es importante entender la lógica de navegación de los usuarios, por esto es necesario que participen en ciertas etapas de diseño y en la medida que avanza el proceso de desarrollo. 
+                    p.m-0 Algunas de estas son sencillas de atender, con la simple comprensión de cómo una persona con discapacidad usaría la <em>web</em> se pueden identificar e implementar mecanismos de accesibilidad; es importante entender la lógica de navegación de los usuarios, por esto es necesario que participen en ciertas etapas de diseño y en la medida que avanza el proceso de desarrollo. 
         
       p.mb-5 Es importante reconocer la información tangible e interfaz de usuario, con el fin de implementar estrategias desde las siguientes necesidades:
 
@@ -440,7 +440,7 @@
                 img.img-t.mx-auto(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')
 
     .bg_6.p-4(data-aos="fade-down-right")
-      p.mb-4 Es importante revisar el siguiente esquema propuesto por Castillo (2020), donde se podrá tener una visión general de los elementos relacionados con las temáticas que se vienen abordando de accesibilidad y usabilidad, esto ayudará a realizar un mejor diseño de las piezas multimediales o el diseño de la página web:
+      p.mb-4 Es importante revisar el siguiente esquema propuesto por Castillo (2020), donde se podrá tener una visión general de los elementos relacionados con las temáticas que se vienen abordando de accesibilidad y usabilidad, esto ayudará a realizar un mejor diseño de las piezas multimediales o el diseño de la página <em>web</em>:
       .row.justify-content-center
         .col-lg-9
           figure.mb-4
