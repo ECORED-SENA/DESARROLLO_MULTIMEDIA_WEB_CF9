@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="482.432" height="236.05" viewBox="0 0 482.432 236.05">
+  <g id="Grupo_889127" data-name="Grupo 889127" transform="translate(-332.103 -2997)">
+    <rect id="Rectángulo_33659" data-name="Rectángulo 33659" width="92.069" height="55.38" transform="translate(693.465 2997)" fill="#1565c0"/>
+    <rect id="Rectángulo_295568" data-name="Rectángulo 295568" width="92.069" height="83.24" transform="translate(693.465 3071)" fill="#1565c0"/>
+    <rect id="Rectángulo_295569" data-name="Rectángulo 295569" width="121.069" height="60.05" transform="translate(693.465 3173)" fill="#1565c0"/>
+    <text id="Cantidad_Exactitud" data-name="Cantidad
+Exactitud" transform="translate(706.465 3018)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Cantidad</tspan><tspan x="0" y="24">Exactitud</tspan></text>
+    <text id="Temporal_Humana_Costo" data-name="Temporal
+Humana
+Costo" transform="translate(739.465 3094)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="-33.918" y="0">Temporal</tspan><tspan x="-30.242" y="24">Humana</tspan><tspan x="-20.992" y="48">Costo</tspan></text>
+    <text id="Aceptabilidad_Comodidad" data-name="Aceptabilidad
+Comodidad" transform="translate(754.465 3197)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="-48.785" y="0">Aceptabilidad</tspan><tspan x="-41.172" y="24">Comodidad</tspan></text>
+    <line id="Línea_146" data-name="Línea 146" x2="50" transform="translate(461.5 3023.504)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <line id="Línea_151" data-name="Línea 151" x2="93.537" transform="translate(586.463 3023.504)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <path id="Trazado_600762" data-name="Trazado 600762" d="M-24.951,0H48" transform="translate(463.5 3112.693)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <line id="Línea_150" data-name="Línea 150" x2="93.537" transform="translate(586.463 3112.693)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <path id="Trazado_600761" data-name="Trazado 600761" d="M0,0H48" transform="translate(463.5 3202.504)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <line id="Línea_149" data-name="Línea 149" x2="93.537" transform="translate(586.463 3202.504)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <path id="Polígono_15" data-name="Polígono 15" d="M8.5,0,17,13H0Z" transform="translate(521 3015) rotate(90)" fill="#26aab7"/>
+    <path id="Polígono_20" data-name="Polígono 20" d="M8.5,0,17,13H0Z" transform="translate(689.5 3015) rotate(90)" fill="#26aab7"/>
+    <path id="Polígono_16" data-name="Polígono 16" d="M8.5,0,17,13H0Z" transform="translate(521 3104.189) rotate(90)" fill="#26aab7"/>
+    <path id="Polígono_19" data-name="Polígono 19" d="M8.5,0,17,13H0Z" transform="translate(689.5 3104.189) rotate(90)" fill="#26aab7"/>
+    <path id="Polígono_17" data-name="Polígono 17" d="M8.5,0,17,13H0Z" transform="translate(521 3194) rotate(90)" fill="#26aab7"/>
+    <path id="Polígono_18" data-name="Polígono 18" d="M8.5,0,17,13H0Z" transform="translate(689.5 3194) rotate(90)" fill="#26aab7"/>
+    <path id="Trazado_600763" data-name="Trazado 600763" d="M0-.409V181.473" transform="translate(463.5 3023.504)" fill="none" stroke="#26aab7" stroke-width="4"/>
+    <rect id="Rectángulo_295566" data-name="Rectángulo 295566" width="107.931" height="35.38" transform="translate(332.103 3095)" fill="#fb8c00"/>
+    <text id="Usabilidad" transform="translate(347.103 3118)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Usabilidad</tspan></text>
+    <rect id="Rectángulo_33656" data-name="Rectángulo 33656" width="78.931" height="35.38" transform="translate(521 3007)" fill="#9edce1"/>
+    <rect id="Rectángulo_295559" data-name="Rectángulo 295559" width="93.189" height="37.38" transform="translate(521 3094)" fill="#9edce1"/>
+    <rect id="Rectángulo_295567" data-name="Rectángulo 295567" width="106.5" height="37.38" transform="translate(523.465 3184)" fill="#9edce1"/>
+    <text id="Eficacia_" data-name="Eficacia " transform="translate(530 3030)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Eficacia </tspan></text>
+    <text id="Eficiencia" transform="translate(533 3118)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Eficiencia</tspan></text>
+    <text id="Satisfacción" transform="translate(532.465 3209)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Satisfacción</tspan></text>
+  </g>
+</svg>
